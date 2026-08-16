@@ -1,1 +1,5 @@
+"""Visualization skills."""
 
+from .figure_generator import run
+
+__all__ = ["run"]
